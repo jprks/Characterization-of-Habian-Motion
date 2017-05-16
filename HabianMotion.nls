@@ -1,0 +1,14 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{HAB}]\begingroup High Altitude Balloon\nomeqref {0}
+		\nompageref{1}
+  \item [{RIT}]\begingroup Rochester Institute of Technology\nomeqref {0}
+		\nompageref{1}
+  \item [{SPEX}]\begingroup RIT Space Exploration\nomeqref {0}
+		\nompageref{1}
+  \item [{SPP}]\begingroup SPEX Project Proposal\nomeqref {0}
+		\nompageref{1}
+
+\end{thenomenclature}
